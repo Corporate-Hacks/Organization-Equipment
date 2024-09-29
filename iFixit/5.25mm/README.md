@@ -13,5 +13,5 @@
 | Light Stand  | Base             | :heavy_check_mark: | :x: | :x: |
 | Power Brick Shelf | Base        | :heavy_check_mark: | :x: | :x: |
 | Table Brand Guide | Round       | :heavy_check_mark: | :x: | :x: |
-|              | Fist             | :x: | :x: | :x: |
-| Spludger     | 15 in            | :x: | :x: | :x: |
+|              | Fist             | :heavy_check_mark: | :x: | :x: |
+| Spludger     | 15 in            | :heavy_check_mark: | :x: | :x: |

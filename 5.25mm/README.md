@@ -54,7 +54,7 @@
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
 | Punch Shelf  | Base             | :heavy_check_mark: | :x: | :x: |
-| Single Row   | 22mm x 6         | :heavy_check_markx: | :x: | :x: |
+| Single Row   | 22mm x 6         | :heavy_check_mark: | :x: | :x: |
 | Allen        | Metric           | :heavy_check_mark: | :x: | :x: |
 |              | SAE              | :heavy_check_mark: | :x: | :x: |
 | Grip Hanger  | DeWalt           | :heavy_check_mark: | :x: | :x: |
