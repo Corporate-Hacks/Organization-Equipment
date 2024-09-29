@@ -26,9 +26,9 @@
 | Driver Bits  | 1/4 x 52         | :heavy_check_mark: | :x: | :x: |
 |              | 4 x 60           | :heavy_check_mark: | :x: | :x: |
 |              | 4 x 52           | :heavy_check_mark: | :x: | :x: |
-| Screwdriver  | Base             | :x: | :x: | :x: |
-| Drill Bits   | Base             | :x: | :x: | :x: |
-| Hammer       | Base             | :x: | :x: | :x: |
+| Screwdriver  | Base             | :heavy_check_mark: | :x: | :x: |
+| Drill Bits   | Base             | :heavy_check_mark: | :x: | :x: |
+| Hammer       | Base             | :heavy_check_mark: | :x: | :x: |
 ||||||
 |**Supplies** |||||
 ||||||
@@ -40,11 +40,11 @@
 | Two Comp     | 4 x 2 x 3.5      | :x: | :x: | :x: |
 |              | 4 x 2 x 5        | :x: | :x: | :x: |
 |              | 4 x 2 x 8        | :x: | :x: | :x: |
-| Sandpaper    | Full Sheet       | :x: | :x: | :x: |
-|              | 1/3 Sheet        | :x: | :x: | :x: |
-|              | Discs            | :x: | :x: | :x: |
+| Sandpaper    | Full Sheet       | :heavy_check_mark: | :x: | :x: |
+|              | 1/3 Sheet        | :heavy_check_mark: | :x: | :x: |
+|              | Discs            | :heavy_check_mark: | :x: | :x: |
 | Dispenser    | Wipes            | :heavy_check_mark: | :x: | :x: |
-|              | Gloves           | :x: | :x: | :x: |
+|              | Gloves           | :heavy_check_mark: | :x: | :x: |
 | Six Comp     | 12 x 5           | :heavy_check_mark: | :x: | :x: |
 |              | 8 x 4            | :heavy_check_mark: | :x: | :x: |
 | Five Comp    | Spray Cans       | :heavy_check_mark: | :x: | :x: |
@@ -58,9 +58,9 @@
 | Allen        | Metric           | :heavy_check_mark: | :x: | :x: |
 |              | SAE              | :heavy_check_mark: | :x: | :x: |
 |              | Unified          | :x: | :x: | :x: |
-| Grip Hanger  | DeWalt           | :x: | :x: | :x: |
-| Battery Charger | DeWalt Narrow | :x: | :x: | :x: |
-|              | DeWalt Wide      | :x: | :x: | :x: |
+| Grip Hanger  | DeWalt           | :heavy_check_mark: | :x: | :x: |
+| Battery Charger | DeWalt Narrow | :heavy_check_mark: | :x: | :x: |
+|              | DeWalt Wide      | :heavy_check_mark: | :x: | :x: |
 | Laser Exhaust | Base            | :heavy_check_mark: | :x: | :x: |
 ||||||
 |**iFixit** |||||
@@ -69,7 +69,7 @@
 | Frame        | Mako             | :heavy_check_mark: | :x: | :x: |
 |              | Essential        | :heavy_check_mark: | :x: | :x: |
 |              | Manta            | :heavy_check_mark: | :x: | :x: |
-| Shelf        | FixHub           | :x: | :x: | :x: |
+| Shelf        | FixHub           | :heavy_check_mark: | :x: | :x: |
 | Manifesto    | 11 x 17          | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Light Stand  | Base             | :heavy_check_mark: | :x: | :x: |
 | Power Brick Shelf | Base        | :heavy_check_mark: | :x: | :x: |
