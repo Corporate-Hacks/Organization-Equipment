@@ -5,7 +5,7 @@
 |**Standard** |||||
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Box          | Base             | :x: | :x: | :x: |
+| Box          | Base             | :heavy_check_mark: | :x: | :x: |
 | Conduit Pegs | Shallow          | :heavy_check_mark: | :x: | :x: |
 |              | Deep             | :heavy_check_mark: | :x: | :x: |
 | Conduit Rack | Base             | :heavy_check_mark: | :x: | :x: |
@@ -33,13 +33,13 @@
 |**Supplies** |||||
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Saw Blades   | Miter            | :x: | :x: | :x: |
+| Saw Blades   | Miter            | :heavy_check_mark: | :x: | :x: |
 |              | Table            | :heavy_check_mark: | :x: | :x: |
 |              | Circ             | :heavy_check_mark: | :x: | :x: |
-| Bin          | 4.5 x 6 x 3.5    | :x: | :x: | :x: |
-| Two Comp     | 4 x 2 x 3.5      | :x: | :x: | :x: |
-|              | 4 x 2 x 5        | :x: | :x: | :x: |
-|              | 4 x 2 x 8        | :x: | :x: | :x: |
+| Bin          | 4.5 x 6 x 3.5    | :heavy_check_mark: | :x: | :x: |
+| Two Comp     | 4 x 2 x 3.5      | :heavy_check_mark: | :x: | :x: |
+|              | 4 x 2 x 5        | :heavy_check_mark: | :x: | :x: |
+|              | 4 x 2 x 8        | :heavy_check_mark: | :x: | :x: |
 | Sandpaper    | Full Sheet       | :heavy_check_mark: | :x: | :x: |
 |              | 1/3 Sheet        | :heavy_check_mark: | :x: | :x: |
 |              | Discs            | :heavy_check_mark: | :x: | :x: |
@@ -53,26 +53,11 @@
 |**Tools** |||||
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Punch Shelf  | Base             | :x: | :x: | :x: |
-| Single Row   | 22mm x 6         | :x: | :x: | :x: |
+| Punch Shelf  | Base             | :heavy_check_mark: | :x: | :x: |
+| Single Row   | 22mm x 6         | :heavy_check_markx: | :x: | :x: |
 | Allen        | Metric           | :heavy_check_mark: | :x: | :x: |
 |              | SAE              | :heavy_check_mark: | :x: | :x: |
-|              | Unified          | :x: | :x: | :x: |
 | Grip Hanger  | DeWalt           | :heavy_check_mark: | :x: | :x: |
 | Battery Charger | DeWalt Narrow | :heavy_check_mark: | :x: | :x: |
 |              | DeWalt Wide      | :heavy_check_mark: | :x: | :x: |
 | Laser Exhaust | Base            | :heavy_check_mark: | :x: | :x: |
-||||||
-|**iFixit** |||||
-||||||
-| *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Frame        | Mako             | :heavy_check_mark: | :x: | :x: |
-|              | Essential        | :heavy_check_mark: | :x: | :x: |
-|              | Manta            | :heavy_check_mark: | :x: | :x: |
-| Shelf        | FixHub           | :heavy_check_mark: | :x: | :x: |
-| Manifesto    | 11 x 17          | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Light Stand  | Base             | :heavy_check_mark: | :x: | :x: |
-| Power Brick Shelf | Base        | :heavy_check_mark: | :x: | :x: |
-| Table Brand Guide | Round       | :heavy_check_mark: | :x: | :x: |
-|              | Fist             | :x: | :x: | :x: |
-| Spludger     | 15 in            | :x: | :x: | :x: |
