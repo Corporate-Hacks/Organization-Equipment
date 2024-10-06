@@ -5,9 +5,9 @@
 |**Standard** |||||
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Box          | Base             | :heavy_check_mark: | :x: | :x: |
-| Conduit Pegs | Shallow          | :heavy_check_mark: | :x: | :x: |
-|              | Deep             | :heavy_check_mark: | :x: | :x: |
+| Box          | Base             | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Conduit Pegs | Shallow          | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Deep             | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Conduit Rack | Base             | :heavy_check_mark: | :x: | :x: |
 | Tray         | 6x4              | :heavy_check_mark: | :x: | :x: |
 |              | 5x3              | :heavy_check_mark: | :x: | :x: |
