@@ -9,12 +9,12 @@
 | Conduit Pegs | Shallow          | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | Deep             | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Conduit Rack | Base             | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Tray         | 6x4              | :heavy_check_mark: | :x: | :x: |
-|              | 5x3              | :heavy_check_mark: | :x: | :x: |
-|              | 10x6             | :heavy_check_mark: | :x: | :x: |
-|              | 12x4             | :heavy_check_mark: | :x: | :x: |
-| Shelf        | 6x6              | :heavy_check_mark: | :x: | :x: |
-|              | 16x4             | :heavy_check_mark: | :x: | :x: |
+| Tray         | 6x4              | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 5x3              | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 10x6             | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 12x4             | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Shelf        | 6x6              | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 16x4             | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | 15x4.25          | :heavy_check_mark: | :x: | :x: |
 |              | 3x3              | :heavy_check_mark: | :x: | :x: |
 |              | 5x3              | :heavy_check_mark: | :x: | :x: |
