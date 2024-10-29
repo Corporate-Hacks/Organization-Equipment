@@ -53,11 +53,11 @@
 |**Tools** |||||
 ||||||
 | *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Punch Shelf  | Base             | :heavy_check_mark: | :x: | :x: |
-| Single Row   | 22mm x 6         | :heavy_check_mark: | :x: | :x: |
-| Allen        | Metric           | :heavy_check_mark: | :x: | :x: |
-|              | SAE              | :heavy_check_mark: | :x: | :x: |
-| Grip Hanger  | DeWalt           | :heavy_check_mark: | :x: | :x: |
-| Battery Charger | DeWalt Narrow | :heavy_check_mark: | :x: | :x: |
-|              | DeWalt Wide      | :heavy_check_mark: | :x: | :x: |
-| Laser Exhaust | Base            | :heavy_check_mark: | :x: | :x: |
+| Punch Shelf  | Base             | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Single Row   | 22mm x 6         | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Allen        | Metric           | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | SAE              | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Grip Hanger  | DeWalt           | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Battery Charger | DeWalt Narrow | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | DeWalt Wide      | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Laser Exhaust | Base            | :heavy_check_mark: | :heavy_check_mark: | :x: |
