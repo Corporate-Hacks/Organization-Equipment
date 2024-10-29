@@ -38,17 +38,17 @@
 |              | Circ             | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Bin          | 4.5 x 6 x 3.5    | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Two Comp     | 4 x 2 x 3.5      | :heavy_check_mark: | :heavy_check_mark: | :x: |
-|              | 4 x 2 x 5        | :heavy_check_mark: | :x: | :x: |
-|              | 4 x 2 x 8        | :heavy_check_mark: | :x: | :x: |
-| Sandpaper    | Full Sheet       | :heavy_check_mark: | :x: | :x: |
-|              | 1/3 Sheet        | :heavy_check_mark: | :x: | :x: |
-|              | Discs            | :heavy_check_mark: | :x: | :x: |
-| Dispenser    | Wipes            | :heavy_check_mark: | :x: | :x: |
-|              | Gloves           | :heavy_check_mark: | :x: | :x: |
-| Six Comp     | 12 x 5           | :heavy_check_mark: | :x: | :x: |
-|              | 8 x 4            | :heavy_check_mark: | :x: | :x: |
-| Five Comp    | Spray Cans       | :heavy_check_mark: | :x: | :x: |
-|              | Caulk Tubes      | :heavy_check_mark: | :x: | :x: |
+|              | 4 x 2 x 5        | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 4 x 2 x 8        | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Sandpaper    | Full Sheet       | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 1/3 Sheet        | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Discs            | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Dispenser    | Wipes            | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Gloves           | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Six Comp     | 12 x 5           | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | 8 x 4            | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Five Comp    | Spray Cans       | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Caulk Tubes      | :heavy_check_mark: | :heavy_check_mark: | :x: |
 ||||||
 |**Tools** |||||
 ||||||
