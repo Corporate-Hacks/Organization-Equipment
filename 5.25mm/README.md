@@ -20,9 +20,9 @@
 |              | 5x3              | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | 9x6              | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | 5x7              | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Frame        | Base             | :heavy_check_mark: | :x: | :x: |
-|              | Letter Landscape | :heavy_check_mark: | :x: | :x: |
-|              | Letter Portrait  | :heavy_check_mark: | :x: | :x: |
+| Frame        | Base             | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Letter Landscape | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|              | Letter Portrait  | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | Driver Bits  | 1/4 x 52         | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | 4 x 60           | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |              | 4 x 52           | :heavy_check_mark: | :heavy_check_mark: | :x: |
