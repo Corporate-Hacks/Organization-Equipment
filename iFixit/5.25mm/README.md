@@ -1,17 +1,14 @@
-# Checklist :heavy_check_mark:
-||||||
-| --: | :-- | :-: | :-: | :-: |
-||||||
-|**iFixit** |||||
-||||||
-| *Base Shape* | *Variant* | *Generated* | *Optimized* | *Instructions* |
-| Frame        | Mako             | :heavy_check_mark: | :heavy_check_mark: | :x: |
-|              | Essential        | :heavy_check_mark: | :heavy_check_mark: | :x: |
-|              | Manta            | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Shelf        | FixHub           | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Manifesto    | 11 x 17          | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| Light Stand  | Base             | :heavy_check_mark: | :x: | :x: |
-| Power Brick Shelf | Base        | :heavy_check_mark: | :x: | :x: |
-| Table Brand Guide | Round       | :heavy_check_mark: | :x: | :x: |
-|              | Fist             | :heavy_check_mark: | :x: | :x: |
-| Spludger     | 15 in            | :heavy_check_mark: | :x: | :x: |
+## [Bin](./Bin.svg)
+Empty | Hanging
+--- | ---
+![Bin Empty](../../img/Empty/Base_Shapes/Bin_E.jpg)|![Bin Hanging](../../img/Hung/Base_Shapes/Bin_H.jpg)  
+
+## [Box](./Box.svg)
+Empty | Hanging
+--- | ---
+![Box Empty](../../img/Empty/Base_Shapes/Box_Open_E.jpg)|![Box Hanging](../../img/Hung/Base_Shapes/Box_Open_H.jpg)  
+
+## [Frame](./Frame_Base.svg)
+Empty | Hanging
+--- | ---
+![Frame Empty](../../img/Empty/Base_Shapes/Frame_Base_E.jpg)|![Frame Hanging](../../img/Hung/Base_Shapes/Frame_Base_H.jpg)
