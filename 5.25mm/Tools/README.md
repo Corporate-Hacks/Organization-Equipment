@@ -38,7 +38,7 @@ Empty | Hanging
 --- | ---
 ![4mm Driver Bits, 52 Positions Empty](../../img/Empty/Tools/Driver_Hex_Insert_4mm_52s_E.jpg)|![4mm Driver Bits, 52 Positions Hanging](../../img/Hung/Tools/Driver_Hex_Insert_4mm_52s_H.jpg)
 
-## [~~4mm Driver Bits, 60 Positions~~](./Driver_Hex_Insert_4mm_60s.svg)
+## [4mm Driver Bits, 60 Positions](./Driver_Hex_Insert_4mm_60s.svg)
 Empty | Hanging
 --- | ---
 ![4mm Driver Bits, 60 Positions Empty](../../img/Empty/Tools/Driver_Hex_Insert_4mm_60s_E.jpg)|![4mm Driver Bits, 60 Positions Hanging](../../img/Hung/Tools/Driver_Hex_Insert_4mm_60s_H.jpg)

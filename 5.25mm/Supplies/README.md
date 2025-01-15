@@ -33,7 +33,7 @@ Empty | Hanging
 --- | ---
 ![Tissue Dispenser Empty](../../img/Empty/Supplies/Dispenser_Tissues_E.jpg)|![Tissue Dispenser Hanging](../../img/Hung/Supplies/Dispenser_Tissues_H.jpg)
 
-## ~~[Horizontal Adjustable Hanger](./Horizontal_Sliding_Conduit_Posts.svg)~~
+## [Horizontal Adjustable Hanger](./Horizontal_Sliding_Conduit_Posts.svg)
 Empty | Hanging
 --- | ---
 ![Horizontal Adjustable Hanger Empty](../../img/Empty/Supplies/Horizontal_Sliding_Conduit_Posts_E.jpg)|![Horizontal Adjustable Hanger Hanging](../../img/Hung/Supplies/Horizontal_Sliding_Conduit_Posts_H.jpg)

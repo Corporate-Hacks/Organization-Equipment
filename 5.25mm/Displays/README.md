@@ -1,12 +1,9 @@
 ## [Attachable Hanger](./Attachable_Hanger.svg)
 Empty | Hanging | With Sign
 --- | --- | ---
-![Attachable Hanger Empty](../../img/Empty/Displays/Attachable_Hanger_E.jpg)|![Attachable Hanger Hanging](../../img/Hung/Displays/Attachable_Hanger_H.jpg)|![Hanger With Sign](../../img/Hung/Displays/Attachable_Hanger_Manifesto_H.jpg)  
+![Attachable Hanger Empty](../../img/Empty/Displays/Attachable_Hanger_E.jpg)|![Attachable Hanger Hanging](../../img/Hung/Displays/Attachable_Hanger_H.jpg)|
+![Hanger With Sign Empty](../../img/Empty/Displays/Attachable_Hanger_Attached_E.jpg)|![Hanger With Sign Hung](../../img/Hung/Displays/Attachable_Hanger_Attached_H.jpg)  
 
-## [~~Drill Organ~~](./Drill_Index_With_Keyboards.svg)
-Empty | Hanging
---- | ---
-![Drill Organ Empty](../../img/Empty/Displays/Drill_Index_With_Keyboards_E.jpg)|![Drill Organ Hanging](../../img/Hung/Displays/Drill_Index_With_Keyboards_H.jpg)  
 
 ## [Frame with Letter Sized Insert (Landscape)](./Frame_Letter_Insert_H.svg)
 Empty | Hanging
