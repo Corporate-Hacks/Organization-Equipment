@@ -53,7 +53,7 @@ Empty | Hanging
 --- | ---
 ![Square Drive Hex Bits, Metric Empty](../../img/Empty/Tools/Hex_Keys_Square_Drive_Metric_E.jpg)|![Square Drive Hex Bits, Metric Hanging](../../img/Hung/Tools/Hex_Keys_Square_Drive_Metric_H.jpg)
 
-## [Square Drive Hex Bits, SAE](./Hex_Keys_Square_Drive_SAE)
+## [Square Drive Hex Bits, SAE](./Hex_Keys_Square_Drive_SAE.svg)
 Empty | Hanging
 --- | ---
 ![Square Drive Hex Bits, SAE Empty](../../img/Empty/Tools/Hex_Keys_Square_Drive_SAE_E.jpg)|![Square Drive Hex Bits, SAE Hanging](../../img/Hung/Tools/Hex_Keys_Square_Drive_SAE_H.jpg)
