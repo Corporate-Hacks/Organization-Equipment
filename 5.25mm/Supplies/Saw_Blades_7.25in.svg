@@ -1,3 +1,4 @@
+<!--
 Cleat Wall Organization Equipment
 Copyright (C) 2025  Corporate Hacks
 
@@ -13,7 +14,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+-->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1300mm" height="900mm" viewBox="0 0 1300 900">
     <path fill="none" stroke="#000" stroke-width=".1mm" d="M334.5 638.5v-9.236h-5.2v-9.437h5.2v-9.036h-5.2v-9.436h5.2v-9.037h-5.2v-9.436h5.2v-9.037h-5.2v-9.436h5.2v-9.036h-5.2v-9.437h5.2V536.7h14.218v-5.2h19.618v5.2h19.219v-5.2h19.618v5.2h19.218v-5.2h19.618v5.2h19.218v-5.2h19.618v5.2h19.219v-5.2h19.618v5.2H537.9v9.236h5.2v9.437h-5.2v9.036h5.2v9.436h-5.2v9.037h5.2v9.436h-5.2v9.037h5.2v9.436h-5.2v9.036h5.2v9.437h-5.2v9.236h-10.539l-9.403-8.523-10.159-7.534-10.847-6.502-11.433-5.408-11.908-4.26-12.268-3.073-12.511-1.855-12.632-.621-12.632.621-12.511 1.855-12.268 3.073-11.908 4.26-11.433 5.408-10.847 6.502-10.159 7.534-9.403 8.523H334.5" style="vector-effect:non-scaling-stroke;fill:none;fill-opacity:1;stroke:#000;stroke-width:.264583;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline" transform="rotate(-90 472.647 306.653)"/>

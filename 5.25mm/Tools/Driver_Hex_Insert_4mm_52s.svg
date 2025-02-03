@@ -1,3 +1,4 @@
+<!--
 Cleat Wall Organization Equipment
 Copyright (C) 2025  Corporate Hacks
 
@@ -13,7 +14,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
+-->
 
 <svg xmlns="http://www.w3.org/2000/svg" width="1300mm" height="900mm" viewBox="0 0 1300 900">
     <path fill="none" stroke="#000" stroke-width=".1mm" d="M598.024 347.995h35.031l9.201 5.113-4.233 7.618-4.546-2.526-.2.36-4.545-2.526-4.24 7.629 4.37 2.429.401-.722 4.72 2.623-4.233 7.618-4.545-2.526-.601 1.082-4.546-2.526-4.239 7.629 4.37 2.429.802-1.444 4.72 2.623-4.233 7.618-4.545-2.526-1.003 1.804-4.545-2.526-4.24 7.629 4.371 2.429 1.203-2.166 4.72 2.623-4.213 7.582h-15.202v-57.35" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(90 647.378 292.343)"/>
