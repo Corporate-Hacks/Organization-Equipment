@@ -1,131 +1,32 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="1300mm"
-   height="900mm"
-   viewBox="0 0 1300 900"
-   version="1.1"
-   id="svg10"
-   sodipodi:docname="TwoComp3.5in.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs10" />
-  <sodipodi:namedview
-     id="namedview10"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="0.10966274"
-     inkscape:cx="351.07639"
-     inkscape:cy="4025.9799"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
-     inkscape:window-x="0"
-     inkscape:window-y="32"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg10" />
-  <polyline
-     z="0"
-     points="473.9,575 473.9,499.75 485.21,499.75 485.21,504.95 496.121,504.95 496.121,499.75 507.398,499.75 509.439,504.677 495.116,519 493.96,519 493.96,524 513.62,524 513.62,518.8 533.68,518.8 533.68,524 553.34,524 553.34,518.8 568.2,518.8 568.2,537.467 573.4,537.467 573.4,556.333 568.2,556.333 568.2,575 553.34,575 553.34,569.8 533.68,569.8 533.68,575 513.62,575 513.62,569.8 493.96,569.8 493.96,575 473.9,575"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline1"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(90,595.775,511.825)" />
-  <path
-     id="polyline3"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 588.8,250.53 v -19.66 h 5 v 19.66 h -5 m -51,39.92 v -19.86 h -5.2 v -20.06 h 5.2 v -19.66 h -5.2 v -20.06 h 5.2 v -19.86 h 17.133 v 5.2 h 16.734 v -5.2 H 588.8 v 19.86 h 5 v -19.86 h 17.133 v 5.2 h 16.734 v -5.2 H 644.8 v 19.86 h 5.2 v 20.06 h -5.2 v 19.66 h 5.2 v 20.06 h -5.2 v 19.86 h -51 v -19.86 h -5 v 19.86 h -51" />
-  <polyline
-     z="0"
-     points="533.68,400.25 513.62,400.25 513.62,395.05 493.96,395.05 493.96,400.25 479.1,400.25 479.1,381.583 473.9,381.583 473.9,362.717 479.1,362.717 479.1,344.05 493.96,344.05 493.96,349.25 513.62,349.25 513.62,344.05 533.68,344.05 533.68,349.25 553.34,349.25 553.34,344.25 552.184,344.25 537.861,329.927 539.902,325 551.179,325 551.179,330.2 562.09,330.2 562.09,325 573.4,325 573.4,400.25 553.34,400.25 553.34,395.05 533.68,395.05 533.68,400.25"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline4"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(90,458.65,474.2)" />
-  <polyline
-     z="0"
-     points="473.9,575 473.9,499.75 485.21,499.75 485.21,504.95 496.121,504.95 496.121,499.75 507.398,499.75 509.439,504.677 495.116,519 493.96,519 493.96,524 513.62,524 513.62,518.8 533.68,518.8 533.68,524 553.34,524 553.34,518.8 568.2,518.8 568.2,537.467 573.4,537.467 573.4,556.333 568.2,556.333 568.2,575 553.34,575 553.34,569.8 533.68,569.8 533.68,575 513.62,575 513.62,569.8 493.96,569.8 493.96,575 473.9,575"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline1-4"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(-90,526.2,437.15)" />
-  <polyline
-     z="0"
-     points="533.68,400.25 513.62,400.25 513.62,395.05 493.96,395.05 493.96,400.25 479.1,400.25 479.1,381.583 473.9,381.583 473.9,362.717 479.1,362.717 479.1,344.05 493.96,344.05 493.96,349.25 513.62,349.25 513.62,344.05 533.68,344.05 533.68,349.25 553.34,349.25 553.34,344.25 552.184,344.25 537.861,329.927 539.902,325 551.179,325 551.179,330.2 562.09,330.2 562.09,325 573.4,325 573.4,400.25 553.34,400.25 553.34,395.05 533.68,395.05 533.68,400.25"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline4-8"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(-90,663.325,399.525)" />
-  <path
-     id="polyline6"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 706.2,230.87 h 5 v 19.66 h -5 V 230.87 M 650,210.81 h 5.2 v -19.86 h 17.133 v 5.2 h 16.734 v -5.2 H 706.2 v 19.86 h 5 v -19.86 h 17.133 v 5.2 h 16.734 v -5.2 H 762.2 v 19.86 h 5.2 v 20.06 h -5.2 v 19.66 h 5.2 v 20.06 h -5.2 v 19.86 h -51 v -19.86 h -5 v 19.86 h -51 V 270.59 H 650 v -20.06 h 5.2 V 230.87 H 650 v -20.06" />
-  <path
-     id="polyline3-3"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 588.8,330.37 v 19.66 h 5 v -19.66 h -5 m -51,-39.92 v 19.86 h -5.2 v 20.06 h 5.2 v 19.66 h -5.2 v 20.06 h 5.2 v 19.86 h 17.133 v -5.2 h 16.734 v 5.2 H 588.8 v -19.86 h 5 v 19.86 h 17.133 v -5.2 h 16.734 v 5.2 H 644.8 v -19.86 h 5.2 v -20.06 h -5.2 v -19.66 h 5.2 v -20.06 h -5.2 v -19.86 h -51 v 19.86 h -5 v -19.86 h -51" />
-  <path
-     id="polyline6-9"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 706.2,350.03 h 5 v -19.66 h -5 v 19.66 M 650,370.09 h 5.2 v 19.86 h 17.133 v -5.2 h 16.734 v 5.2 H 706.2 v -19.86 h 5 v 19.86 h 17.133 v -5.2 h 16.734 v 5.2 H 762.2 v -19.86 h 5.2 v -20.06 h -5.2 v -19.66 h 5.2 v -20.06 h -5.2 v -19.86 h -51 v 19.86 h -5 v -19.86 h -51 v 19.86 H 650 v 20.06 h 5.2 v 19.66 H 650 v 20.06" />
-  <path
-     id="polyline8"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 551.467,645.15 v 5 h 18.466 v -5 H 551.467 M 532.6,588.95 v 5.4 h 5.2 v 16.733 h -5.2 v 17.134 h 5.2 v 16.733 h -5.2 v 5.4 h 5.2 v 16.733 h -5.2 v 17.134 h 5.2 v 16.733 h -5.2 v 5.4 h 18.867 v -5.2 h 18.466 v 5.2 H 588.8 v -5.4 h -5.2 v -16.733 h 5.2 v -17.134 h -5.2 V 650.35 h 5.2 v -5.4 h -5.2 v -16.733 h 5.2 v -17.134 h -5.2 V 594.35 h 5.2 v -5.4 h -18.867 v 5.2 h -18.466 v -5.2 H 532.6" />
-  <polyline
-     z="0"
-     points="785.1,541.47 785.1,552.58 790.3,552.58 790.3,563.89 785.1,563.89 785.1,575 678.1,575 678.1,563.89 672.9,563.89 672.9,552.58 678.1,552.58 678.1,541.47 785.1,541.47"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline9"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="matrix(0,1,1,0,137.05999,-81.25)" />
-  <polyline
-     z="0"
-     points="672.9,537.467 672.9,556.333 667.7,556.333 667.7,575 652.84,575 652.84,569.8 633.18,569.8 633.18,575 613.12,575 613.12,569.8 593.46,569.8 593.46,575 573.4,575 573.4,518.8 593.46,518.8 593.46,524 613.12,524 613.12,518.8 633.18,518.8 633.18,524 652.84,524 652.84,518.8 667.7,518.8 667.7,537.467 672.9,537.467"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline10"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(90,661.5,577.55)" />
-  <path
-     id="polyline8-1"
-     style="vector-effect:non-scaling-stroke;fill:none;stroke:#000000;stroke-width:0.264583;-inkscape-stroke:hairline"
-     d="m 607.667,645.15 v 5 h 18.466 v -5 H 607.667 M 588.8,588.95 v 5.4 h 5.2 v 16.733 h -5.2 v 17.134 h 5.2 v 16.733 h -5.2 v 5.4 h 5.2 v 16.733 h -5.2 v 17.134 h 5.2 v 16.733 h -5.2 v 5.4 h 18.867 v -5.2 h 18.466 v 5.2 H 645 v -5.4 h -5.2 v -16.733 h 5.2 v -17.134 h -5.2 V 650.35 h 5.2 v -5.4 h -5.2 v -16.733 h 5.2 v -17.134 h -5.2 V 594.35 h 5.2 v -5.4 h -18.867 v 5.2 h -18.466 v -5.2 H 588.8" />
-  <polyline
-     z="0"
-     points="785.1,541.47 785.1,552.58 790.3,552.58 790.3,563.89 785.1,563.89 785.1,575 678.1,575 678.1,563.89 672.9,563.89 672.9,552.58 678.1,552.58 678.1,541.47 785.1,541.47"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline9-2"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="matrix(0,1,1,0,103.52999,-81.25)" />
-  <polyline
-     z="0"
-     points="672.9,537.467 672.9,556.333 667.7,556.333 667.7,575 652.84,575 652.84,569.8 633.18,569.8 633.18,575 613.12,575 613.12,569.8 593.46,569.8 593.46,575 573.4,575 573.4,518.8 593.46,518.8 593.46,524 613.12,524 613.12,518.8 633.18,518.8 633.18,524 652.84,524 652.84,518.8 667.7,518.8 667.7,537.467 672.9,537.467"
-     fill="none"
-     stroke="#000000"
-     stroke-width="0.1mm"
-     id="polyline10-9"
-     style="vector-effect:non-scaling-stroke;stroke-width:0.264583;stroke-dasharray:none;-inkscape-stroke:hairline"
-     transform="rotate(-90,604.05,458.8)" />
+<!--
+Cleat Wall Organization Equipment
+Copyright (C) 2025  Corporate Hacks
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1300mm" height="900mm" viewBox="0 0 1300 900">
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M473.9 575v-75.25h11.31v5.2h10.911v-5.2h11.277l2.041 4.927L495.116 519h-1.156v5h19.66v-5.2h20.06v5.2h19.66v-5.2h14.86v18.667h5.2v18.866h-5.2V575h-14.86v-5.2h-19.66v5.2h-20.06v-5.2h-19.66v5.2H473.9" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(90 595.775 511.825)"/>
+    <path d="M588.8 250.53v-19.66h5v19.66h-5m-51 39.92v-19.86h-5.2v-20.06h5.2v-19.66h-5.2v-20.06h5.2v-19.86h17.133v5.2h16.734v-5.2H588.8v19.86h5v-19.86h17.133v5.2h16.734v-5.2H644.8v19.86h5.2v20.06h-5.2v19.66h5.2v20.06h-5.2v19.86h-51v-19.86h-5v19.86h-51" style="vector-effect:non-scaling-stroke;fill:none;stroke:#000;stroke-width:.264583;-inkscape-stroke:hairline"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M533.68 400.25h-20.06v-5.2h-19.66v5.2H479.1v-18.667h-5.2v-18.866h5.2V344.05h14.86v5.2h19.66v-5.2h20.06v5.2h19.66v-5h-1.156l-14.323-14.323 2.041-4.927h11.277v5.2h10.911V325h11.31v75.25h-20.06v-5.2h-19.66v5.2" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(90 458.65 474.2)"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M473.9 575v-75.25h11.31v5.2h10.911v-5.2h11.277l2.041 4.927L495.116 519h-1.156v5h19.66v-5.2h20.06v5.2h19.66v-5.2h14.86v18.667h5.2v18.866h-5.2V575h-14.86v-5.2h-19.66v5.2h-20.06v-5.2h-19.66v5.2H473.9" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(-90 526.2 437.15)"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M533.68 400.25h-20.06v-5.2h-19.66v5.2H479.1v-18.667h-5.2v-18.866h5.2V344.05h14.86v5.2h19.66v-5.2h20.06v5.2h19.66v-5h-1.156l-14.323-14.323 2.041-4.927h11.277v5.2h10.911V325h11.31v75.25h-20.06v-5.2h-19.66v5.2" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(-90 663.325 399.525)"/>
+    <path d="M706.2 230.87h5v19.66h-5v-19.66M650 210.81h5.2v-19.86h17.133v5.2h16.734v-5.2H706.2v19.86h5v-19.86h17.133v5.2h16.734v-5.2H762.2v19.86h5.2v20.06h-5.2v19.66h5.2v20.06h-5.2v19.86h-51v-19.86h-5v19.86h-51v-19.86H650v-20.06h5.2v-19.66H650v-20.06M588.8 330.37v19.66h5v-19.66h-5m-51-39.92v19.86h-5.2v20.06h5.2v19.66h-5.2v20.06h5.2v19.86h17.133v-5.2h16.734v5.2H588.8v-19.86h5v19.86h17.133v-5.2h16.734v5.2H644.8v-19.86h5.2v-20.06h-5.2v-19.66h5.2v-20.06h-5.2v-19.86h-51v19.86h-5v-19.86h-51" style="vector-effect:non-scaling-stroke;fill:none;stroke:#000;stroke-width:.264583;-inkscape-stroke:hairline"/>
+    <path d="M706.2 350.03h5v-19.66h-5v19.66M650 370.09h5.2v19.86h17.133v-5.2h16.734v5.2H706.2v-19.86h5v19.86h17.133v-5.2h16.734v5.2H762.2v-19.86h5.2v-20.06h-5.2v-19.66h5.2v-20.06h-5.2v-19.86h-51v19.86h-5v-19.86h-51v19.86H650v20.06h5.2v19.66H650v20.06M551.467 645.15v5h18.466v-5h-18.466m-18.867-56.2v5.4h5.2v16.733h-5.2v17.134h5.2v16.733h-5.2v5.4h5.2v16.733h-5.2v17.134h5.2v16.733h-5.2v5.4h18.867v-5.2h18.466v5.2H588.8v-5.4h-5.2v-16.733h5.2v-17.134h-5.2V650.35h5.2v-5.4h-5.2v-16.733h5.2v-17.134h-5.2V594.35h5.2v-5.4h-18.867v5.2h-18.466v-5.2H532.6" style="vector-effect:non-scaling-stroke;fill:none;stroke:#000;stroke-width:.264583;-inkscape-stroke:hairline"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M785.1 541.47v11.11h5.2v11.31h-5.2V575h-107v-11.11h-5.2v-11.31h5.2v-11.11h107" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="matrix(0 1 1 0 137.06 -81.25)"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M672.9 537.467v18.866h-5.2V575h-14.86v-5.2h-19.66v5.2h-20.06v-5.2h-19.66v5.2H573.4v-56.2h20.06v5.2h19.66v-5.2h20.06v5.2h19.66v-5.2h14.86v18.667h5.2" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(90 661.5 577.55)"/>
+    <path d="M607.667 645.15v5h18.466v-5h-18.466m-18.867-56.2v5.4h5.2v16.733h-5.2v17.134h5.2v16.733h-5.2v5.4h5.2v16.733h-5.2v17.134h5.2v16.733h-5.2v5.4h18.867v-5.2h18.466v5.2H645v-5.4h-5.2v-16.733h5.2v-17.134h-5.2V650.35h5.2v-5.4h-5.2v-16.733h5.2v-17.134h-5.2V594.35h5.2v-5.4h-18.867v5.2h-18.466v-5.2H588.8" style="vector-effect:non-scaling-stroke;fill:none;stroke:#000;stroke-width:.264583;-inkscape-stroke:hairline"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M785.1 541.47v11.11h5.2v11.31h-5.2V575h-107v-11.11h-5.2v-11.31h5.2v-11.11h107" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="matrix(0 1 1 0 103.53 -81.25)"/>
+    <path fill="none" stroke="#000" stroke-width=".1mm" d="M672.9 537.467v18.866h-5.2V575h-14.86v-5.2h-19.66v5.2h-20.06v-5.2h-19.66v5.2H573.4v-56.2h20.06v5.2h19.66v-5.2h20.06v5.2h19.66v-5.2h14.86v18.667h5.2" style="vector-effect:non-scaling-stroke;stroke-width:.264583;stroke-dasharray:none;-inkscape-stroke:hairline" transform="rotate(-90 604.05 458.8)"/>
 </svg>
